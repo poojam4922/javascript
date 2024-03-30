@@ -1,6 +1,7 @@
 Variable and Data types.
 
-Different Data Types in JavaScript:
+#Different Data Types in JavaScript
+
 String: Represents textual data enclosed within single or double quotes.
 
 var greeting = "Hello, World!";
